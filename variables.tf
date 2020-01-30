@@ -10,6 +10,8 @@ variable "s3_tfstate_file" {}
 
 variable "s3_folder_type" {}
 
+variable "s3_bucket_type" {}
+
 variable "private_subnet_id_1" {}
 
 variable "private_subnet_id_2" {}
