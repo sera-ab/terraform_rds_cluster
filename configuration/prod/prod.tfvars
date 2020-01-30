@@ -9,6 +9,7 @@ s3_folder_name = "tools"
 region = "us-west-2"
 
 
+
 private_subnet_id_1 = "us-west-2a"
 private_subnet_id_2 = "us-west-2b"
 private_subnet_id_3 = "us-west-2c"
