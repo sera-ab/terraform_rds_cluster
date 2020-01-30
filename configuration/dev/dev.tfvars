@@ -23,7 +23,7 @@ master_password         = "password123"
 
 engine                  = "aurora" 
 engine_version          = "5.6.10a" 
-backup_retention_period = 5
+backup_retention_period = "5"
 
 port = "443"
 port = "3306"
